@@ -1,7 +1,7 @@
 # 📊 Employee Attrition Analysis - Power BI Report
 
 ## 📌 Project Overview
-This project analyzes employee attrition using **Power BI** and to identify key factors influencing attrition, predict employee churn, and provide actionable HR insights. 
+This project analyzes employee attrition using **Power BI** to identify key factors influencing attrition and provide actionable HR insights. 
 
 The Power BI report consists of **4 interactive pages**, each focusing on different aspects of attrition.
 
