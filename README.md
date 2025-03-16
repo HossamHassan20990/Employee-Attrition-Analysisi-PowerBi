@@ -34,3 +34,8 @@ The Power BI report consists of **4 interactive pages**, each focusing on differ
 💡 **Created by:** [Hossam Hassan]  
 🔗 **GitHub Repo:** [[Your Repository](https://github.com/HossamHassan20990/Employee-Attrition-Analysisi-PowerBi)]
 
+
+🥳🥳See the interactive dashboard her 
+https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=8fcf4cd9-2fe4-4571-8431-b17c3f29efb3&pbi_source=mobile_android&groupObjectId=db9698c0-9489-4459-af21-6fc9079ea3bc&reportObjectId=288b45c2-a3db-49e2-9d9d-6b1e5e907d86&reportPage=e4d50c775d1db3c9a736&bookmarkGuid=53e19c36-0525-4221-82ce-2da288631d31&fullScreen=0
+
+
